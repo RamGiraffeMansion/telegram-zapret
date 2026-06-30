@@ -1,2 +1,0 @@
-# telegram-zapret
-telegram zapret
